@@ -2,7 +2,7 @@
 
 👀 Interested in: Learning, exploring new technologies, and innovation.
 
-🌱 Currently learning: AI/ML, ROS, Embedded Systems.
+🌱 Currently learning: AI/ML, ROS, Embedded Systems, open cv.
 
 💡 Looking to collaborate on: Startups, Hackathons, Robotics, Research and Sustainable Development.
 
